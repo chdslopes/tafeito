@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TaFeito App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed during the classes of Web Development(Front-end/Back-end) at the Federal University of São Carlos(UFSCar).
 
 ## Available Scripts
 
